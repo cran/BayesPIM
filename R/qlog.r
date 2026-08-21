@@ -1,1 +1,0 @@
-qlog = function(p) log(p)-log(1-p)
